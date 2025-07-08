@@ -22,14 +22,14 @@ export const SITE_CONFIG: SiteConfig = {
     // { text: "Youtube", href: "https://github.com/immois/astro-zen" },
     // { text: "Dribbble", href: "https://github.com/immois/astro-zen" },
   ],
-  socialImage: "/zen-og.png",
+  socialImage: "/canonical.png",
   canonicalURL: "https://astro-zen.vercel.app",
 };
 
 export const SITE_CONTENT: SiteContent = {
   hero: {
     name: "Aniss Samuel",
-    specialty: "Ethical Hacker, Smart Contract Auditor Web3 Developer",
+    specialty: "Ethical Hacker, Smart Contract Auditor & Web3 Developer",
     summary:
       "Web 3 Developer with over 5 years blockchain experience. I specialize in UI design, web3 application development and maintenance, Smart contract auditing.",
     email: "lordflex2004@gmail.com",
@@ -42,8 +42,6 @@ export const SITE_CONTENT: SiteContent = {
       endDate: "December 2022",
       summary: [
         "Designed and deployed smart contracts for tokens and NFTs on EVM chains (Ethereum, Polygon), Solana, and Algorand, optimizing gas costs and security to reduce deployment expenses by 30%",
-
-        "Led development of a cross-chain NFT platform, integrating wallets like MetaMask and Phantom, increasing user transactions by 40% ",
 
         "Launched ERC-20, ERC-721, and custom Solana programs, driving primary sales for NFT collections.",
 
@@ -93,7 +91,7 @@ export const SITE_CONTENT: SiteContent = {
       summary:
         "A personalized NFT minter specially developed during the sei chain boom",
 
-      linkSource: "https://https://github.com/samuel-aniss",
+      linkSource: "https://github.com/samuel-aniss",
       image: "/seimintbot.png",
     },
     {
@@ -101,7 +99,7 @@ export const SITE_CONTENT: SiteContent = {
       summary:
         "A specialized tool developed to frotrun hackers and claim EVM tokens ",
 
-      linkSource: "https://github.com/immois/astro-zen",
+      linkSource: "https://github.com/samuel-aniss",
       image: "/frontrunner.png",
     },
   ],
